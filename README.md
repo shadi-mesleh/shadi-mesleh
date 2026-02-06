@@ -25,7 +25,7 @@ My background in computer science has driven a strong interest in cybersecurity,
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+Splunk/SIEM/SOC | IDS/IPS/Firewall | Wireshark | Windows Server | Linux | Endpoint Security Solutions | 
 
 ### Network
 <div>
@@ -50,11 +50,14 @@ My background in computer science has driven a strong interest in cybersecurity,
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<a href="https://www.udemy.com/certificate/UC-cd544fad-b2e4-4992-878a-eb8a7e0cfebd/"><img src="https://img.shields.io/badge/-Security%2B-007ACC?style=for-the-badge&logo=compTIA&logoColor=white" />
+<br>
+<a href="https://coursera.org/share/2b2f706a32f8e52e43699287a3ec774b/"><img src="https://img.shields.io/badge/Cyber%20Incident%20Response-IFOSEC-0A0A23?style=for-the-badge&logo=hackthebox&logoColor=white" />
+<br>
+<a href="https://coursera.org/share/128aaf0986652fe54524831cb65679ed)"><img src="https://img.shields.io/badge/CC%20Certified%20in%20Cybersecurity-ISC2-blue?style=for-the-badge&logo=isc2&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/SOC%20Analyst%20Course-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+<br>
 </div>
 
 ## Projects
