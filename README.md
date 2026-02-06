@@ -1,15 +1,16 @@
-## Hi there 👋
-# Hello, I'm CHANGEME
+
+# Hi there, I'm Shadi Mesleh👋
+
+Entry-level Cybersecurity Analyst (Tier-1) with a strong background in IT support, system administration, and network monitoring.
+
 <a href="https://www.linkedin.com/in/shadi-mesleh-010099219/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My background in computer science has driven a strong interest in cybersecurity, and I am actively pursuing a transition into the field with a clear goal of joining a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
