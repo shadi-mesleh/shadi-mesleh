@@ -4,8 +4,9 @@
 Entry-level Cybersecurity Analyst (Tier-1) with a strong background in IT support, system administration, and network monitoring.
 
 <a href="https://www.linkedin.com/in/shadi-mesleh-010099219/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-
+<br>
+<a href="https://www.coursera.org/user/0ddb19099a2e09dfe246822c983a68e7"><img src="https://img.shields.io/badge/-Coursera-0056D2?style=for-the-badge&logo=education&logoColor=white" />
+</a>
 
 
 ## Objective
@@ -52,9 +53,9 @@ Splunk/SIEM/SOC | IDS/IPS/Firewall | Wireshark | Windows Server | Linux | Endpoi
 <div>
 <a href="https://www.udemy.com/certificate/UC-cd544fad-b2e4-4992-878a-eb8a7e0cfebd/"><img src="https://img.shields.io/badge/-Security%2B-007ACC?style=for-the-badge&logo=compTIA&logoColor=white" />
 <br>
-<a href="https://coursera.org/share/2b2f706a32f8e52e43699287a3ec774b/"><img src="https://img.shields.io/badge/Cyber%20Incident%20Response-IFOSEC-0A0A23?style=for-the-badge&logo=hackthebox&logoColor=white" />
+<a href="https://coursera.org/share/2b2f706a32f8e52e43699287a3ec774b"><img src="https://img.shields.io/badge/Cyber%20Incident%20Response-IFOSEC-0A0A23?style=for-the-badge&logo=hackthebox&logoColor=white" />
 <br>
-<a href="https://coursera.org/share/128aaf0986652fe54524831cb65679ed)"><img src="https://img.shields.io/badge/CC%20Certified%20in%20Cybersecurity-ISC2-blue?style=for-the-badge&logo=isc2&logoColor=white" />
+<a href="https://coursera.org/share/128aaf0986652fe54524831cb65679ed"><img src="https://img.shields.io/badge/CC%20Certified%20in%20Cybersecurity-ISC2-blue?style=for-the-badge&logo=isc2&logoColor=white" />
 <br>
 <img src="https://img.shields.io/badge/SOC%20Analyst%20Course-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 <br>
